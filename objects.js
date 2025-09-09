@@ -3,7 +3,7 @@ const user ={
     age: 19,
 
 bio: "electrical Engineer,Graduate Member UIPE, Researcher and lover of Mathematics",
-image:"MV5BZWZkNjM0NTEtNjJlYy00Y2Y1LTk5MjgtNzhiMjAyZjkxODBjXkEyXkFqcGc@._V1_.jpg",
+image:"/images/MV5BZWZkNjM0NTEtNjJlYy00Y2Y1LTk5MjgtNzhiMjAyZjkxODBjXkEyXkFqcGc@._V1_.jpg"
 
 }
 
